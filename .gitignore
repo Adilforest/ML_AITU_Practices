@@ -33,3 +33,4 @@ env/
 
 # Data files
 population.csv
+*.csv
